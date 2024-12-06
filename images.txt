@@ -6,5 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 apache/superset
 python
-tigera-operator
-calico
+quay.io/tigera/operator
