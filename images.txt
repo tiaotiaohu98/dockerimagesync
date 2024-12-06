@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 apache/superset
 python
-quay.io/tigera/operator
+quay.io/tigera/operator:v1.36.3
