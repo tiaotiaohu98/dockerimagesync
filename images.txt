@@ -13,4 +13,4 @@ docker.io/calico/typha:v3.29.1
 docker.io/calico/cni:v3.29.1
 docker.io/calico/csi:v3.29.1
 docker.io/calico/node-driver-registrar:v3.29.1
-docker.io/calico/api-server:v3.29.1
+docker.io/calico/node:v3.29.1
